@@ -2,14 +2,14 @@
 
 > 꾸준함을 무기로, 차근차근 쌓아가는 개발자 🚀
 
----
+
 
 ## 🧭 About
 - Python 기반 백엔드 개발에 관심이 있습니다.
 - 웹 서비스와 서버 구조를 이해하고 구현하는 것을 좋아합니다.
 - 새로운 기술을 학습하고 적용합니다.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -29,7 +29,7 @@
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-B2F2BB?style=flat-square)
 ![Local Model](https://img.shields.io/badge/Local%20Model-F1F3F5?style=flat-square)
 
----
+
 
 ## 📚 Interests
 - 🌐 Web Service Development  
@@ -37,7 +37,7 @@
 - ☁️ Cloud 기반 서비스 운영  
 - 📊 데이터 활용
 
----
+
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MINAH714&show_icons=true&hide_title=true)
