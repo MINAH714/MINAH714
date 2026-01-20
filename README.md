@@ -1,72 +1,50 @@
-👩‍💻 AI Application Developer | Backend & Cloud
+```md
+# ✨ MinA ✨
 
-AI 모델을 서비스로 연결하고,
-클라우드 환경에서 안정적으로 운영하는 것에 관심이 많은 개발자입니다.
-단순히 모델을 사용하는 것을 넘어, 비용·성능·UX를 고려한 AI 애플리케이션 구현을 지향합니다.
+> 꾸준함을 무기로, 차근차근 쌓아가는 개발자 🚀
 
-🧠 Tech Stack
-🔤 Language
+---
 
-Python
+## 🧭 About
+- Python 기반 백엔드 개발에 관심이 있습니다.
+- 웹 서비스와 서버 구조를 이해하고 구현하는 것을 좋아합니다.
+- 새로운 기술을 필요한 만큼만 학습하고 적용합니다.
 
-⚙️ Backend
+---
 
-FastAPI
+## 🛠 Tech Stack
 
-☁️ Cloud & DevOps
+### 🔤 Language
+![Python](https://img.shields.io/badge/Python-FFE873?style=flat-square&logo=python&logoColor=333333)
 
-AWS
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-8ED6C9?style=flat-square&logo=fastapi&logoColor=004D40)
 
-Docker
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-F5C26B?style=flat-square&logo=amazonaws&logoColor=232F3E)
+![Docker](https://img.shields.io/badge/Docker-9ED0F6?style=flat-square&logo=docker&logoColor=084C8D)
 
-🤖 AI / ML
+### 🧩 Tools & Tech
+![API Integration](https://img.shields.io/badge/API%20Integration-E6D9FF?style=flat-square)
+![Cloud Service](https://img.shields.io/badge/Cloud%20Service-BDD7FF?style=flat-square)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-B2F2BB?style=flat-square)
+![Local Model](https://img.shields.io/badge/Local%20Model-F1F3F5?style=flat-square)
 
-OpenAI API
+---
 
-Google Vertex AI
+## 📚 Interests
+- 🌐 Web Service Development  
+- ⚙️ Backend & API Design  
+- ☁️ Cloud 기반 서비스 운영  
+- 📊 데이터 활용
 
-Ollama (Local LLM)
+---
 
-LM Studio
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MINAH714&show_icons=true&hide_title=true)
 
-YOLO (Object Detection)
+---
 
-🧩 What I’ve Worked With
-
-LLM 기반 AI API 서버 구축
-
-OpenAI / Vertex AI 등 상용 LLM API 연동
-
-Ollama, LM Studio를 활용한 로컬 LLM 실행 및 테스트
-
-YOLO 기반 객체 탐지 모델 활용
-
-FastAPI + Docker 기반 AI 서비스 컨테이너화
-
-AWS 환경에서 서버 배포 및 운영 경험
-
-🎯 Interests & Focus
-
-AI 모델을 실제 서비스에 적용하는 방법
-
-상황에 따라 상용 LLM과 로컬 LLM을 선택·전환하는 구조
-
-AI 서비스의 비용 최적화와 응답 속도 개선
-
-백엔드 관점에서의 AI 시스템 설계
-
-🚀 Goal
-
-“AI를 잘 쓰는 것에서 끝나지 않고,
-운영 가능한 서비스로 완성하는 개발자”
-
-기술을 나열하기보다,
-문제를 정의하고 → 적절한 AI를 선택 → 서비스로 구현하는 경험을 쌓고 있습니다.
-
-📌 Keywords
-
-Python FastAPI Docker AWS
-LLM OpenAI Vertex AI Ollama YOLO
-AI Application Backend Developer
-
-⭐️ 꾸준히 기록하고, 실험하고, 개선합니다.
+## 💬 One Line
+> 오늘보다 내일 더 나은 코드를 만드는 개발자
+```
